@@ -1,0 +1,11 @@
+bin\Debug\TestApplication.exe.config
+obj\Debug\TestApplication.exe
+obj\Debug\TestApplication.pdb
+bin\Debug\TestApplication.exe
+bin\Debug\TestApplication.pdb
+bin\Debug\Common.dll
+bin\Debug\Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestApplication.Form1.resources
+obj\Debug\TestApplication.Properties.Resources.resources
+obj\Debug\TestApplication.csproj.GenerateResource.Cache

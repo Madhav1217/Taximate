@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{7ABAB619-58B3-41F4-B773-020D3570AB6C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\...\PollingIntegration\", "..\Websites\PollingIntegration", "{35222D86-80FD-4678-95A3-39BE64C48454}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/GroundOne/10 Implementation/Source Code/GroundScope Portal/API/PollingIntegration/PollingIntegration/Websites/PollingIntegration", IXIFAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		ProjectReferences = "{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}|Common.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/PollingIntegration"
+		Debug.AspNetCompiler.PhysicalPath = "..\Websites\PollingIntegration\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PollingIntegration\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PollingIntegration"
+		Release.AspNetCompiler.PhysicalPath = "..\Websites\PollingIntegration\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PollingIntegration\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1698"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = TestApplication\\TestApplication.csproj
+		SccProjectName1 = \u0022$/GroundOne/10\u0020Implementation/Source\u0020Code/GroundScope\u0020Portal/API/PollingIntegration/PollingIntegration/PollingIntegration/TestApplication\u0022,\u0020LVIFAAAA
+		SccLocalPath1 = TestApplication
+		CanCheckoutShared = false
+		SccProjectUniqueName2 = Common\\Common.csproj
+		SccProjectName2 = \u0022$/GroundOne/10\u0020Implementation/Source\u0020Code/GroundScope\u0020Portal/API/PollingIntegration/PollingIntegration/PollingIntegration/Common\u0022,\u0020DUIFAAAA
+		SccLocalPath2 = Common
+		CanCheckoutShared = false
+		SccWebProject3 = true
+		SccProjectUniqueName3 = ..\\Websites\\PollingIntegration
+		SccProjectName3 = \u0022$/GroundOne/10\u0020Implementation/Source\u0020Code/GroundScope\u0020Portal/API/PollingIntegration/PollingIntegration/Websites/PollingIntegration\u0022,\u0020IXIFAAAA
+		SccLocalPath3 = ..\\Websites\\PollingIntegration
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice3 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Release|.NET.ActiveCfg = Release|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DDB8D9B2-F8DC-4C3A-852F-30E69E670BCC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Release|.NET.ActiveCfg = Release|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7ABAB619-58B3-41F4-B773-020D3570AB6C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Debug|.NET.ActiveCfg = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Debug|.NET.Build.0 = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Release|.NET.ActiveCfg = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Release|.NET.Build.0 = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{35222D86-80FD-4678-95A3-39BE64C48454}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
